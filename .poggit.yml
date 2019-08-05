@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/KietTran0308/Trade
+branches:
+- master
+projects:
+  TradeUI-master:
+    path: TradeUI-master/
+...
