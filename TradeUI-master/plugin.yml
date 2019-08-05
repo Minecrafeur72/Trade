@@ -1,0 +1,9 @@
+name: TradeUI
+version: 4.0
+api: 3.0.0
+main: WoolChannel3295\Main
+author: [WoolChannel3295, Roxtigger2k3]
+commands:
+  trade:
+    description: "The Trade Command Ver 4.0"
+    usage: "/trade"
